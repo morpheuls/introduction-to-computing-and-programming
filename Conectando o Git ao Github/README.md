@@ -291,7 +291,8 @@ Este guia abrangente oferece um caminho claro para configurar o Git tanto no Ubu
 - 1. **Flexibilidade e Importância do Git**: A configuração do Git e a conexão com o GitHub são habilidades essenciais para desenvolvedores modernos. O Git permite um controle de versão robusto e flexível, enquanto o GitHub facilita a colaboração e o compartilhamento de código.
 - 2. **Chave SSH para Segurança**: Usar chaves SSH para se conectar ao GitHub proporciona uma camada adicional de segurança. Isso evita a necessidade de inserir credenciais repetidamente, mantendo uma conexão segura.
 - 3. **Ferramentas e Integrações**: Ferramentas como GitHub Desktop e VS Code melhoram a experiência do usuário, oferecendo interfaces gráficas intuitivas e integrações úteis para gerenciamento de código.
-     
+OBS: Em caso de dúvidas consulte as referências ou as devidas documentações das tecnologias utilizadas.
+
 <div/>
   
 <div id='32-referências'>
@@ -304,6 +305,8 @@ Este guia abrangente oferece um caminho claro para configurar o Git tanto no Ubu
 - Cygwin: [Cygwin](https://www.cygwin.com/). Acesso em 18/01/2024.
 - UNIX E LINUX: [UNIX E LINUX](http://www.inf.ufsc.br/~j.barreto/cca/sisop/unixe.htm). Acesso em 18/01/2024.
 - CMD: dicas para trabalhar no prompt do Windows: [Alura: CMD: dicas para trabalhar no prompt do Windows](https://www.alura.com.br/artigos/cmd-dicas-para-trabalhar-no-prompt-do-windows?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=687448474447&hsa_src=g&hsa_tgt=dsa-843358956400&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQiAtaOtBhCwARIsAN_x-3L5RDbKJ3gdKQysiJvYArB1MbsCmHQZtM_1yqIVCbFJ3NazodMuTmYaAqkqEALw_wcB). Acesso em 18/01/2024.
+- GitHub Desktop. [Documentação do GitHub Desktop](https://docs.github.com/pt/desktop). Acesso em 18/01/2024.
+- IDE Visual Studio Code. [Visual Studio Code](https://code.visualstudio.com/). Acesso em 18/01/2024.
   
 <div/>
 Este guia é uma compilação de melhores práticas e recomendações derivadas dessas fontes confiáveis. Ele visa simplificar o processo de configuração e uso do Git e GitHub, tornando-o acessível tanto para iniciantes quanto para usuários experientes.
