@@ -10,7 +10,7 @@ sudo apt-get update
 sudo apt-get install git
 git --version  # Verifica a instalação do Git
 ```
-OBS: Importante: Para estabelecer uma conexão eficiente entre o Git e o GitHub, é essencial possuir uma conta no GitHub. Isso é necessário porque durante a configuração do Git, você precisará associar o mesmo endereço de e-mail registrado na sua conta do GitHub. Essa associação é crucial para garantir uma comunicação segura e autenticada entre o seu sistema local e os repositórios remotos no GitHub.
+OBS: Para estabelecer uma conexão eficiente entre o Git e o GitHub, é essencial possuir uma conta no GitHub. Isso é necessário porque durante a configuração do Git, você precisará associar o mesmo endereço de e-mail registrado na sua conta do GitHub. Essa associação é crucial para garantir uma comunicação segura e autenticada entre o seu sistema local e os repositórios remotos no GitHub.
 
 ### **1.2. Configurar Git**
 Configure seu nome de usuário e email para identificação em seus commits.
@@ -126,7 +126,8 @@ Cole a chave no GitHub:
 - Clique em "New SSH key" ou "Add SSH key".
 - Cole a chave copiada no campo apropriado e salve.
 
-Obs: como uma alternativa para usuários de Windows que desejam uma experiência semelhante ao Unix, o Cygwin pode ser utilizado. O Cygwin é um conjunto de ferramentas de software livre desenvolvidas inicialmente pela Cygnus Solutions, que permite que as várias versões do Microsoft Windows simulem um ambiente de sistema Unix. Esta pode ser uma opção valiosa para quem prefere trabalhar em um ambiente Unix-like no Windows. Para saber mais sobre o projeto Cygwin o link estará nas referências.
+Obs: como uma alternativa para usuários de Windows que desejam uma experiência semelhante ao Unix, o Cygwin pode ser utilizado. O Cygwin é um conjunto de ferramentas de software livre desenvolvidas inicialmente pela Cygnus Solutions, que permite que as várias versões do Microsoft Windows simulem um ambiente de sistema Unix. Esta pode ser uma opção valiosa para quem prefere trabalhar em um ambiente Unix-like no Windows. Para saber mais sobre o projeto Cygwin o link estará nas referências bem como o que é Unix.
+OBS2: Nas referências também se encontram alguns comandos para o terminal do Windows.
 
 ### **2.6. Testar Conexão SSH com GitHub**
 Teste a conexão SSH com o GitHub para verificar a configuração.
@@ -165,9 +166,10 @@ Este guia abrangente oferece um caminho claro para configurar o Git tanto no Ubu
 - Documentação Oficial do Git: [Git Documentation](https://git-scm.com/doc). Acesso em 13/01/2024.
 - Documentação Oficial do GitHub: [GitHub Docs](https://docs.github.com/). Acesso em 13/01/2024.
 - Tutorial de SSH e Git: [GitHub SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh). Acesso em 13/01/2024.
-- O que é chave SSH do Git?: [Atlassian](https://www.atlassian.com/br/git/tutorials/git-ssh). Acesso em 18/01/2024.
+- O que é chave SSH do Git?: [Atlassian: O que é chave SSH do Git?](https://www.atlassian.com/br/git/tutorials/git-ssh). Acesso em 18/01/2024.
 - Cygwin: [Cygwin](https://www.cygwin.com/). Acesso em 18/01/2024.
 - UNIX E LINUX: [UNIX E LINUX](http://www.inf.ufsc.br/~j.barreto/cca/sisop/unixe.htm). Acesso em 18/01/2024.
+- CMD: dicas para trabalhar no prompt do Windows: [Alura: CMD: dicas para trabalhar no prompt do Windows](https://www.alura.com.br/artigos/cmd-dicas-para-trabalhar-no-prompt-do-windows?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=687448474447&hsa_src=g&hsa_tgt=dsa-843358956400&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQiAtaOtBhCwARIsAN_x-3L5RDbKJ3gdKQysiJvYArB1MbsCmHQZtM_1yqIVCbFJ3NazodMuTmYaAqkqEALw_wcB). Acesso em 18/01/2024.
 
 Este guia é uma compilação de melhores práticas e recomendações derivadas dessas fontes confiáveis. Ele visa simplificar o processo de configuração e uso do Git e GitHub, tornando-o acessível tanto para iniciantes quanto para usuários experientes.
 
