@@ -109,6 +109,19 @@ Copie a chave SSH gerada para a área de transferência.
 clip < ~/.ssh/id_rsa.pub
 # No GitHub, vá para Settings > SSH and GPG keys > New SSH key e cole a chave
 ```
+### **2.5.1 Caso o comando clip não funcione**
+Abra o arquivo manualmente:
+- Navegue até a pasta .ssh localizada no seu diretório de usuário (geralmente em C:\Users\[SeuNomeDeUsuário]\.ssh).
+- Encontre o arquivo id_rsa.pub.
+- Abra-o com um editor de texto, como o Bloco de Notas.
+Copie o conteúdo manualmente:
+- Uma vez aberto, selecione todo o texto (geralmente começa com ssh-rsa) e copie-o usando Ctrl+C.
+
+Cole a chave no GitHub:
+- Vá para o GitHub, acesse as configurações da sua conta.
+- Navegue até "SSH and GPG keys".
+- Clique em "New SSH key" ou "Add SSH key".
+- Cole a chave copiada no campo apropriado e salve.
 
 ### **2.6. Testar Conexão SSH com GitHub**
 Teste a conexão SSH com o GitHub para verificar a configuração.
