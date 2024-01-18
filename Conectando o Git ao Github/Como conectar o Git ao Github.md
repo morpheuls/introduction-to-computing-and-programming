@@ -32,6 +32,7 @@ Gere uma nova chave SSH para se conectar com o GitHub.
 ssh-keygen -t rsa -b 4096 -C "seu-email@dominio.com"
 # Pressione Enter para padrão e opcionalmente defina uma senha
 ```
+OBS: Uma chave SSH é a credencial de acesso para o protocolo de rede SSH (shell seguro). Esse protocolo de rede segura autenticado e criptografado é usado para comunicação remota entre máquinas em rede aberta não segura.
 
 ### **1.4. Adicionar a Chave SSH ao Agente SSH**
 Inicialize e adicione sua chave SSH ao agente SSH.
@@ -146,6 +147,7 @@ Este guia abrangente oferece um caminho claro para configurar o Git tanto no Ubu
 - Documentação Oficial do Git: [Git Documentation](https://git-scm.com/doc). Acesso em 13/01/2024.
 - Documentação Oficial do GitHub: [GitHub Docs](https://docs.github.com/). Acesso em 13/01/2024.
 - Tutorial de SSH e Git: [GitHub SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh). Acesso em 13/01/2024.
+- O que é chave SSH do Git?:[atlassian](https://www.atlassian.com/br/git/tutorials/git-ssh). Acesso em 18/01/2024.
 
 Este guia é uma compilação de melhores práticas e recomendações derivadas dessas fontes confiáveis. Ele visa simplificar o processo de configuração e uso do Git e GitHub, tornando-o acessível tanto para iniciantes quanto para usuários experientes.
 
