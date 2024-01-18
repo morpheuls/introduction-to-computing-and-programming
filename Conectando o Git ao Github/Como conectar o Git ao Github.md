@@ -313,4 +313,4 @@ Este guia é uma compilação de melhores práticas e recomendações derivadas 
 Lembre-se de que a prática constante e a exploração de recursos adicionais são chaves para se tornar proficientes no uso do Git e GitHub. É bom sempre estar atualizado com as últimas atualizações e práticas recomendadas dessas ferramentas consultando sempre as devidas documentações e suas comunidades.
 
 Made with 💜 by @morpheuls
-
+<!--Backup revisado ok!-->
