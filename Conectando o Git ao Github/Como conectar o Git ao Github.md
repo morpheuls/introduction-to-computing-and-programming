@@ -160,7 +160,7 @@ Este guia abrangente oferece um caminho claro para configurar o Git tanto no Ubu
 - Documentação Oficial do Git: [Git Documentation](https://git-scm.com/doc). Acesso em 13/01/2024.
 - Documentação Oficial do GitHub: [GitHub Docs](https://docs.github.com/). Acesso em 13/01/2024.
 - Tutorial de SSH e Git: [GitHub SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh). Acesso em 13/01/2024.
-- O que é chave SSH do Git?: [atlassian](https://www.atlassian.com/br/git/tutorials/git-ssh). Acesso em 18/01/2024.
+- O que é chave SSH do Git?: [Atlassian](https://www.atlassian.com/br/git/tutorials/git-ssh). Acesso em 18/01/2024.
 
 Este guia é uma compilação de melhores práticas e recomendações derivadas dessas fontes confiáveis. Ele visa simplificar o processo de configuração e uso do Git e GitHub, tornando-o acessível tanto para iniciantes quanto para usuários experientes.
 
