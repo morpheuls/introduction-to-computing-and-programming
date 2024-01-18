@@ -38,7 +38,7 @@ Este guia fornece instruções passo a passo para configurar o Git no Ubuntu, no
 <div id='1-Usando-Linux-Ubuntu'>
 
 ## **1. Usando Linux Ubuntu** 
-Estaremos usando a distribuição Linux Ubuntu 22.04, foi testado também na distruibuição ZorinOS 16 e provalvemente funcionará nas demais.
+Estaremos usando a distribuição Linux Ubuntu 22.04, foi testado também na distruibuição ZorinOS 16 e provalvemente funcionará nas demais.E também usamos o Windows 10 e 11.
 
 <div/>
 
