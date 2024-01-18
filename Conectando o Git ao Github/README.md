@@ -1,4 +1,4 @@
-
+<!-- Versão Currente revida ok!-->
 <div id='configuração-do-git-e-conexão-com-o-github-no-ubuntu-e-windows'>
   
 # **Configuração do Git e Conexão com o GitHub no Ubuntu e Windows**
